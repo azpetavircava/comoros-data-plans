@@ -72,3 +72,10 @@ layout: default
 
 *   **覆盖好的地方**：莫罗尼市中心、机场、主要城镇核心区、部分海滩度假村。速度？能流畅刷Instagram、发微信语音、看标清YouTube已是谢天谢地。
 *
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Comoros SIM 卡购买与激活指南](https://faciylike.github.io/comoros-sim-guides)
